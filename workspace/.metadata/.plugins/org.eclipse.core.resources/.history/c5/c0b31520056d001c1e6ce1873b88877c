@@ -1,0 +1,10 @@
+package com.preyanshdutta.springdemo;
+
+public class BeanScopeDemoApp {
+
+	public static void main(String[] args) {
+		// load the spring config file
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("beanScope-applicationContext.xml");
+		// return bean from spring container
+	}
+}

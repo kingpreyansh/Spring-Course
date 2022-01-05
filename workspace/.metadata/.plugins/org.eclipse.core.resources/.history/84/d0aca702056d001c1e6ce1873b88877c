@@ -1,0 +1,9 @@
+package com.preyanshdutta.springdemo;
+
+public class BeanScopeDemoApp {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.preyanshdutta.springdemo;
+
+public class RandomFortuneTeller implements FortuneService {
+	
+	String[] RandomFortune;
+	
+	@Override
+	public String getFortune() {
+		return null;
+	}
+
+}
