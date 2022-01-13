@@ -1,7 +1,0 @@
-package com.preyanshdutta.springdemo;
-
-public class SetterDemoApp {
-	public static void main(String[] args) {
-		
-	}
-}
